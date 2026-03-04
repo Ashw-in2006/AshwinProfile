@@ -1,4 +1,4 @@
-# 🚀 Ashwin AI — Cloud DevOps Command Center
+# 🚀 Ashwin  — Cloud DevOps Command Center
 
 An AI-powered developer portfolio built as a **Cloud DevOps Command Center**.
 Instead of a traditional portfolio, this platform allows visitors to explore projects, certifications, and developer activity through **interactive dashboards, AI tools, and a DevOps terminal interface**.
@@ -7,7 +7,7 @@ Instead of a traditional portfolio, this platform allows visitors to explore pro
 
 ## 🌐 Live Portfolio
 
-🔗 https://your-portfolio-link.vercel.app
+🔗 https://ashwin-profile-wheat.vercel.app/
 
 ---
 
